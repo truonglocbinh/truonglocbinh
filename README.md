@@ -5,8 +5,8 @@ I'm a passionate developer interested in web development, AI, and open source.
 
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on exciting projects
-- 💬 Ask me about JavaScript, Python, or web frameworks
-- 📫 How to reach me: [your.email@example.com]
+- 💬 Ask me about JavaScript, Ruby, Python, or web frameworks
+- 📫 How to reach me: [truonglocbinh93@gmail.com]
 
 ## 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,7 +22,10 @@ I'm a passionate developer interested in web development, AI, and open source.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truonglocbinh&layout=compact)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=truonglocbinh&theme=github-compact)
+## Badges
+
+<a href="https://github.com/truonglocbinh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truonglocbinh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-l%C3%B4%CC%A3c-bi%CC%80nh-675848143/)
