@@ -2,3 +2,18 @@ https://platform.claude.com/oauth/authorize?code=true&client_id=9d1c250a-e61b-44
 
 
 C97yhaVcTjGDeJ8Rmfbq831037nMemGhrHWapweZRobrzq5s#CGHLc5wZPWW_kjlANxSJeyfw1ZptwhD0ZZhSE2T3jFM
+
+# ~/.codex/config.toml
+model = "gpt-5.6-tera"
+model_provider = "apilit"
+
+[model_providers.apilit]
+name = ""
+base_url = "https://apilit.dev/api/v1"
+env_key = "API_KEY"
+requires_openai_auth = false
+wire_api = "responses"
+namespace_tools = false
+
+[features]
+shell_tool = true
