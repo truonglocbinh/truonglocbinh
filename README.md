@@ -1,19 +1,1 @@
-https://platform.claude.com/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=https%3A%2F%2Fplatform.claude.com%2Foauth%2Fcode%2Fcallback&scope=org%3Acreate_api_key+user%3Aprofile+user%3Ainference+user%3Asessions%3Aclaude_code+user%3Amcp_servers+user%3Afile_upload+user%3Aplugins&code_challenge=uBe29l6rl_JAlbxi9zURvqny7paYs0gDEc5xL_a5fA4&code_challenge_method=S256&state=CGHLc5wZPWW_kjlANxSJeyfw1ZptwhD0ZZhSE2T3jFM
 
-
-C97yhaVcTjGDeJ8Rmfbq831037nMemGhrHWapweZRobrzq5s#CGHLc5wZPWW_kjlANxSJeyfw1ZptwhD0ZZhSE2T3jFM
-
-# ~/.codex/config.toml
-model = "gpt-5.6-tera"
-model_provider = "apilit"
-
-[model_providers.apilit]
-name = ""
-base_url = "https://apilit.dev/api/v1"
-env_key = "API_KEY"
-requires_openai_auth = false
-wire_api = "responses"
-namespace_tools = false
-
-[features]
-shell_tool = true
